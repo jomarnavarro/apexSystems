@@ -25,7 +25,7 @@ public class Hooks {
         driver.quit();
     }
 
-    public PuppySite getApexSite() {
+    public PuppySite getPuppySite() {
         return this.site;
     }
 }
